@@ -1,2 +1,3 @@
 puts "I" + "am" + "Sam"
-#出力：IamSam
+#出力結果
+#IamSam

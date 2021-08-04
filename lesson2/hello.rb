@@ -1,2 +1,3 @@
 puts 'Hello, World'
-#出力：Hello, World
+#出力結果
+#Hello, World
